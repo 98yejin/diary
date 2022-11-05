@@ -12,6 +12,7 @@ Monthly - Weekly - Daily(with/without random question)
 
 ### High Priority
 
+- Generated Calendar
 - Monthly
   - Monthly Goal
   - Monthly Memo
