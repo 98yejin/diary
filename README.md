@@ -8,7 +8,11 @@
 
 Monthly - Weekly - Daily(with/without random question)
 
-## 2. Feature(Todo list :sweat_smile:)
+## 2. Feature
+
+nothing
+
+## 3. TODO
 
 ### High Priority
 
